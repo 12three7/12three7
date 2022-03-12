@@ -1,4 +1,4 @@
-// 6/3/22 variable errors
+// 6/3/22 variable errors.
 
 var x = 1.5;
 var y = true;
