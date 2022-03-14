@@ -16,4 +16,4 @@ console.log(b * c + b / c); // null?
 
 var d = "anjai";
 var e = true;
-console.log(e * d); // null lagi 
+console.log(e * d); // null lagi /
