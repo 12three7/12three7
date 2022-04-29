@@ -4,6 +4,8 @@ hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 
 ## Random Facts
 
+- i'm currently learning java (the programming language, not the spoken language).
+- most of my music are made in fl studio mobile.
 - i like making, ~~buying~~, and releasing albums.
 - even though i'm a music producer, i've never made a music-related program.
 - i like playing (and modding) mindustry. and i have captured 160 sectors in the (mindustry) campaign.
