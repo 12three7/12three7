@@ -1,14 +1,15 @@
 # Hello.
 
-hi, i'm 1237 (pronounced "twelve three seven" (or "dua belas tiga tujuh", in indonesian)), a multi-genre music producer & mindustry modder from Indonesia.
+hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 
 ## Random Facts
 
 - i like making, ~~buying~~, and releasing albums.
 - even though i'm a music producer, i've never made a music-related program.
-- i like playing (and modding) mindustry. I have captured 160 sectors in the campaign.
+- i like playing (and modding) mindustry. and i have captured 160 sectors in the (mindustry) campaign.
 - most of my art/sprites/music are weird and very experimental.
 - binary0011 isn't my first mindustry mod, and even that mod has a hjson version.
+- i have a [youtube channel](youtube.com/1237yt).
 
 ## Github Stats
 
