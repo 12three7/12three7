@@ -10,7 +10,7 @@ hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 - even though i'm a music producer, i've never made a music-related program.
 - i like playing (and modding) mindustry. and i have captured 160 sectors in the (mindustry) campaign. *and i've never captured sector 24.*
 - most of my art/sprites/music are weird and very experimental.
-- binary0011 isn't my first mindustry mod, and even that mod has a hjson version.
+- binary0011 isn't my first mindustry mod, *and that mod has a hjson version.*
 - i have a [youtube channel](youtube.com/1237yt).
 
 ## Github Stats.
