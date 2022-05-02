@@ -37,7 +37,7 @@ _a: I deleted my old youtube channel (which has 154 subscribers) on March 3, 202
 
 ### what happened to your discord server?
 
-_a: I deleted it because the server was **d e d**._
+*a: I deleted it because the server was **d e d**.*
 
 ### what happened to your old youtube videos/songs?
 
