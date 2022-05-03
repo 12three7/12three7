@@ -1,8 +1,8 @@
-# Hello.
+# Hello
 
 hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 
-## Random Facts.
+## Random Facts
 
 - i'm currently learning java (the programming language, not the spoken language).
 - most of my music are made in fl studio mobile.
@@ -12,6 +12,16 @@ hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 - most of my art/sprites/music are weird and very experimental.
 - binary0011 isn't my first mindustry mod, *and that mod has a hjson version.*
 - i have a [youtube channel](youtube.com/1237yt).
+
+## socials
+
+- [youtube](12three7.github.io/yt)
+- [instagram](12three7.github.io/ig)
+- [bandcamp](12three7.github.io/bc)
+- [github](12three7.github.io/gh)
+- [weeklybeats](12three7.github.io/wb)
+- [spotify](12three7.github.io/sp)
+- [soundcloud](12three7.github.io/sc)
 
 ## Frequently Asked Questions
 
@@ -60,7 +70,7 @@ _a: because there's an artist(/band?) called 1235 that makes music longer than m
 _a: that name doesn't have any meaning at all._
 
 
-## Github Stats.
+## Github Stats
 
 ![1237's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12three7&show_icons=true&theme=radical)
 <a href="https://github.com"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12three7&layout=compact&theme=radical&hide_border=false" /></a>
