@@ -75,3 +75,7 @@ _a: that name doesn't have any meaning at all._
 <a href="https://github.com"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12three7&layout=compact&theme=radical&hide_border=false" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12three7&hide_border=false&background=141321&ring=FC428C&fire=E8CA43&dates=A7FCF5&currStreakLabel=FFFFFF&sideNums=A7FCF5&currStreakNum=E8CA43&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 [![trophy](https://github-profile-trophy.vercel.app/?username=12three7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
