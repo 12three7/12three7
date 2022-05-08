@@ -79,3 +79,6 @@ _a: that name doesn't have any meaning at all._
 ---
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/uujuju1/poost/pull/2) in [uujuju1/poost](https://github.com/uujuju1/poost)
+2. 💪 Opened PR [#1](https://github.com/uujuju1/poost/pull/1) in [uujuju1/poost](https://github.com/uujuju1/poost)
+<!--END_SECTION:activity-->
