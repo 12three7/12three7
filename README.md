@@ -62,7 +62,7 @@ _a: "0" (ep). released on September 12, 2020._
 
 ### why is your artist name 1237? / why you change your artist name from 1235 to 1237?
 
-_a: because there's an artist(/band?) called 1235 that makes music longer than me.
+_a: because there's an artist(/band?) called 1235 that makes music longer than me._
 
 ### what does the name (number?) "1237" mean?
 
