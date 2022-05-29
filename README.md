@@ -15,13 +15,13 @@ hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 
 ## socials
 
-- [youtube](12three7.github.io/yt)
-- [instagram](12three7.github.io/ig)
-- [bandcamp](12three7.github.io/bc)
-- [github](12three7.github.io/gh)
-- [weeklybeats](12three7.github.io/wb)
-- [spotify](12three7.github.io/sp)
-- [soundcloud](12three7.github.io/sc)
+1. https://youtube.com/1237yt
+2. https://spoti.fi/3PMF0ei
+3. https://1237.bandcamp.com/
+4. https://instagram.com/12three7/
+5. https://soundcloud.app.goo.gl/9Cn8p
+6. https://weeklybeats.com/12three7/
+7. https://github.com/12three7/
 
 ## Frequently Asked Questions
 
