@@ -78,10 +78,6 @@ _a: that name doesn't have any meaning at all._
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12three7&hide_border=false&background=141321&ring=FC428C&fire=E8CA43&dates=A7FCF5&currStreakLabel=FFFFFF&sideNums=A7FCF5&currStreakNum=E8CA43&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 [![trophy](https://github-profile-trophy.vercel.app/?username=12three7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Discord
-
-[![discord 1237](https://discord.com/api/guilds/977880697127710751/widget.json)
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
