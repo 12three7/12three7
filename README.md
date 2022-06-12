@@ -80,7 +80,7 @@ _a: that name doesn't have any meaning at all._
 
 ## Discord
 
-![](https://discord.c99.nl/widget/theme-3/779264677867028480.png)
+![https://discord.com/api/guilds/977880697127710751/widget.json]
 
 ## Recent Activity
 
