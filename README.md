@@ -23,6 +23,7 @@ hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 6. https://soundcloud.app.goo.gl/9Cn8p
 7. https://weeklybeats.com/12three7/
 8. https://github.com/12three7/
+9. https://creator.nightcafe.studio/u/1237
 
 ## Frequently Asked Questions
 
