@@ -1,7 +1,9 @@
 # Hello
 
-hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
+hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & mindustry modder from Indonesia.
 
+<details>
+<summary>Random Facts</summary>
 ## Random Facts
 
 - i'm currently learning java (the programming language, not the spoken language).
@@ -12,7 +14,10 @@ hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 - i like playing mindustry and making mindustry mods. and i have captured 160 sectors in the (mindustry) campaign. *and i've never captured sector 24.*
 - most of my art/sprites/music are weird and very experimental.
 - binary0011 isn't my first mindustry mod, *and that mod has a hjson version.*
+</details>
 
+<details>
+<summary>Socials</summary>
 ## socials
 
 1. https://youtube.com/1237yt
@@ -24,7 +29,10 @@ hi, i'm 1237, a multi-genre music producer & mindustry modder from Indonesia.
 7. https://weeklybeats.com/12three7/
 8. https://github.com/12three7/
 9. https://creator.nightcafe.studio/u/1237
+</details>
 
+<details>
+<summary>FAQ</summary>
 ## Frequently Asked Questions
 
 ### what daw(/software) do you use to make music?
@@ -70,7 +78,7 @@ _a: because there's an artist(/band?) called 1235 that makes music longer than m
 ### what does the name (number?) "1237" mean?
 
 _a: that name doesn't have any meaning at all._
-
+</details>
 
 ## Github Stats
 
