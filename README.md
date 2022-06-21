@@ -32,10 +32,11 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <br>9. https://creator.nightcafe.studio/u/1237
 </details>
 <br>
-<details><summary><b>FAQ</b></summary><br>
+<details><summary><b>FAQ</b></summary>
+
 **q: what daw(/software) do you use to make music?**
 <br><br>
-_a: fl studio mobile (latihan resampling, return, 4'41"...), fl studio 20 (industrial activity, nights, virus...), ~~ableton live 11 trial (50 (l), 51, (li), 4'31"...)~~ , famitracker (mengejar ketertinggalan ii, jangan terburu-buru, 46 (xlvi)...), lsdj (w4s1, w5s1, lagu teraneh sedunia...)_
+_a: fl studio mobile, famitracker, lsdj._
 <br><br>
 **q: what genre(s) (/style) of music do you produce?**
 <br><br>
