@@ -4,16 +4,16 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 
 # More Info
 
-<details><summary>Recent Projects</summary>
+<details><summary><b>Recent Projects</b></summary>
   <br>
   <details><summary>Non-music</summary>
-    - 
-    - [NotSoSimpleTextGame](https://github.com/12three7/notsosimpletextgame)
+    - <a href="https://github.com/12three7/codenamewindstorm">Codename: Windstorm</a>
+    - <a href="https://github.com/12three7/notsosimpletextgame">Not-So-Simple Text Game</a>
   </details>
   <br>
   <details><summary>Music</summary>
-    - [Drafts / Forgotten Tracks II](https://youtube.com/playlist?list=PL-9JdATROorBrVJ_UTSRUnw28WZoN4_Ox)
-    - [Project Oblivion OST](https://youtube.com/playlist?list=PL-9JdATROorAYuXT2DUatMVA_amRxhGw5)
+    - <a href="https://youtube.com/playlist?list=PL-9JdATROorBrVJ_UTSRUnw28WZoN4_Ox">Drafts / Forgotten Tracks Part 2</a>
+    - <a href="https://youtube.com/playlist?list=PL-9JdATROorAYuXT2DUatMVA_amRxhGw5">Project Oblivion OST</a>
   </details>
 </details>
 <br>
