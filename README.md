@@ -7,7 +7,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <details><summary>Recent Projects</summary>
   <br>
   <details><summary>Non-music</summary>
-    - [Codename: Windstorm](https://github.com/12three7/codenamewindstorm)
+    - 
     - [NotSoSimpleTextGame](https://github.com/12three7/notsosimpletextgame)
   </details>
   <br>
@@ -29,6 +29,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <br>- most of my art/sprites/music are weird and very experimental.
 <br>- binary0011 isn't my first mindustry mod.
 <br>- i can solve a rubik's cube.
+<br>- i ""accidentally"" learned html after updating this readme.
 </details>
 <br>
 <details>
