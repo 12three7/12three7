@@ -6,6 +6,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 
 <details>
 <summary><b>Random Facts</b></summary>
+<br>
 - i'm currently learning java (the programming language, not the spoken language).
 <br>- my internet alias is 1237, but (almost) everybody on the internet calls me 1234.
 <br>- most of my music are made in fl studio mobile.
@@ -19,6 +20,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <br>
 <details>
 <summary><b>Socials</b></summary>
+<br>
 1. https://youtube.com/1237yt
 <br>2. https://discord.gg/j6FYRPhzFt
 <br>3. https://spoti.fi/3PMF0ei
@@ -31,7 +33,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 </details>
 <br>
 <details><summary><b>FAQ</b></summary>
-
+<br>
 **q: what daw(/software) do you use to make music?**
 <br><br>
 _a: fl studio mobile (latihan resampling, return, 4'41"...), fl studio 20 (industrial activity, nights, virus...), ~~ableton live 11 trial (50 (l), 51, (li), 4'31"...)~~ , famitracker (mengejar ketertinggalan ii, jangan terburu-buru, 46 (xlvi)...), lsdj (w4s1, w5s1, lagu teraneh sedunia...)_
