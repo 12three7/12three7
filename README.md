@@ -7,64 +7,65 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <details>
 <summary><b>Random Facts</b></summary>
 - i'm currently learning java (the programming language, not the spoken language).
-- my internet alias is 1237, but (almost) everybody on the internet calls me 1234.
-- most of my music are made in fl studio mobile.
-- i like releasing albums.
-- even though i'm a music producer, i've never made a music-related program.
-- i like playing mindustry and making mindustry mods. and i have captured 160 sectors in the (mindustry) campaign. and i've never captured sector 24.
-- most of my art/sprites/music are weird and very experimental.
-- binary0011 isn't my first mindustry mod.
+<br>- my internet alias is 1237, but (almost) everybody on the internet calls me 1234.
+<br>- most of my music are made in fl studio mobile.
+<br>- i like releasing albums.
+<br>- even though i'm a music producer, i've never made a music-related program.
+<br>- i like playing mindustry and making mindustry mods. and i have captured 160 sectors in the (mindustry) campaign. and i've never captured sector 24.
+<br>- most of my art/sprites/music are weird and very experimental.
+<br>- binary0011 isn't my first mindustry mod.
+<br>- i can solve a rubik's cube.
 </details>
 <br>
 <details>
 <summary><b>Socials</b></summary>
 1. https://youtube.com/1237yt
-2. https://discord.gg/j6FYRPhzFt
-3. https://spoti.fi/3PMF0ei
-4. https://1237.bandcamp.com/
-5. https://instagram.com/12three7/
-6. https://soundcloud.app.goo.gl/9Cn8p
-7. https://weeklybeats.com/12three7/
-8. https://github.com/12three7/
-9. https://creator.nightcafe.studio/u/1237
+<br>2. https://discord.gg/j6FYRPhzFt
+<br>3. https://spoti.fi/3PMF0ei
+<br>4. https://1237.bandcamp.com/
+<br>5. https://instagram.com/12three7/
+<br>6. https://soundcloud.app.goo.gl/9Cn8p
+<br>7. https://weeklybeats.com/12three7/
+<br>8. https://github.com/12three7/
+<br>9. https://creator.nightcafe.studio/u/1237
 </details>
 <br>
-<details>
-<summary><b>FAQ</b></summary>
+<details><summary><b>FAQ</b></summary>
+
 **q: what daw(/software) do you use to make music?**
-
+<br><br>
 _a: fl studio mobile (latihan resampling, return, 4'41"...), fl studio 20 (industrial activity, nights, virus...), ~~ableton live 11 trial (50 (l), 51, (li), 4'31"...)~~ , famitracker (mengejar ketertinggalan ii, jangan terburu-buru, 46 (xlvi)...), lsdj (w4s1, w5s1, lagu teraneh sedunia...)_
-
+<br><br>
 **q: what genre(s) (/style) of music do you produce?**
-
+<br><br>
 _a: ambient, chiptune/8-bit, house, acid house, future house, experimental, experimental electronic, improvisation, generative, dark ambient, lofi, lofi hip-hop, hip-hop/trap, future bass, dubstep, deathstep, riddim dubstep, electro, complextro, electro house, edm, trance, psytrance, tech trance, drum and bass, drumstep._
-
+<br><br>
 **q: why do you often release albums? / how do you make/produce a lot of music (in a ""short"" time)?**
-
+<br><br>
 _a: I don't know._
-
+<br><br>
 **q: why is all your album artwork/cover grayscale?**
-
+<br><br>
 _a: I like grayscale art (/color)._
-
+<br><br>
 **q: what happened to your youtube channel?**
-
+<br><br>
 _a: I deleted my old youtube channel (which has 154 subscribers) on March 3, 2021. I created a new youtube channel on February 28, 2021. I deleted my old channel because it was "connected" with the topic channel for 1235._ <br> ***note: I changed the artist name from 1235 to "1237" on December 23, 2020.***
-
+<br><br>
 **q: what happened to your old youtube videos/songs?**
-
+<br><br>
 _a: I deleted them._
-
+<br><br>
 **q: am i allowed to use your music (as a backsound/soundtrack) for my videos/livestreams/games/__?**
-
+<br><br>
 _a: as long as you credit me (in the description/credits), yes, you're allowed to use my music._
-
+<br><br>
 **q: why is your artist name 1237? / why you change your artist name from 1235 to 1237?**
-
+<br><br>
 _a: because there's an artist(/band?) called 1235 that makes music longer than me._
-
+<br><br>
 **q: what does the name (number?) "1237" mean?**
-
+<br><br>
 _a: that name doesn't have any meaning at all._
 </details>
 <br>
