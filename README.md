@@ -2,6 +2,8 @@
 
 hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & mindustry modder from Indonesia.
 
+# More Info
+
 <details>
 <summary><b>Random Facts</b></summary>
 - i'm currently learning java (the programming language, not the spoken language).
@@ -65,6 +67,7 @@ _a: because there's an artist(/band?) called 1235 that makes music longer than m
 
 _a: that name doesn't have any meaning at all._
 </details>
+<br>
 <details><summary><b>Github Stats</b></summary>
 
 ![1237's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12three7&show_icons=true&theme=radical)
@@ -72,3 +75,4 @@ _a: that name doesn't have any meaning at all._
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12three7&hide_border=false&background=141321&ring=FC428C&fire=E8CA43&dates=A7FCF5&currStreakLabel=FFFFFF&sideNums=A7FCF5&currStreakNum=E8CA43&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 [![trophy](https://github-profile-trophy.vercel.app/?username=12three7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+<br>
