@@ -7,13 +7,13 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <details><summary><b>Recent Projects</b></summary>
   <br>
   <details><summary>Non-music</summary>
-    - <a href="https://github.com/12three7/codenamewindstorm">Codename: Windstorm</a>
-    - <a href="https://github.com/12three7/notsosimpletextgame">Not-So-Simple Text Game</a>
+    - <a href="https://github.com/12three7/codenamewindstorm">Codename: Windstorm</a><br>
+    - <a href="https://github.com/12three7/notsosimpletextgame">Not-So-Simple Text Game</a><br>
   </details>
   <br>
   <details><summary>Music</summary>
-    - <a href="https://youtube.com/playlist?list=PL-9JdATROorBrVJ_UTSRUnw28WZoN4_Ox">Drafts / Forgotten Tracks Part 2</a>
-    - <a href="https://youtube.com/playlist?list=PL-9JdATROorAYuXT2DUatMVA_amRxhGw5">Project Oblivion OST</a>
+    - <a href="https://youtube.com/playlist?list=PL-9JdATROorBrVJ_UTSRUnw28WZoN4_Ox">Drafts / Forgotten Tracks Part 2</a><br>
+    - <a href="https://youtube.com/playlist?list=PL-9JdATROorAYuXT2DUatMVA_amRxhGw5">Project Oblivion OST</a><br>
   </details>
 </details>
 <br>
@@ -21,15 +21,15 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <summary><b>Random Facts</b></summary>
 <br>
 - i'm currently learning java (the programming language, not the spoken language).
-<br>- my internet alias is 1237, but (almost) everybody on the internet calls me 1234.
-<br>- most of my music are made in fl studio mobile.
-<br>- i like releasing albums.
-<br>- even though i'm a music producer, i've never made a music-related program.
-<br>- i like playing mindustry and making mindustry mods. and i have captured 160 sectors in the (mindustry) campaign. and i've never captured sector 24.
-<br>- most of my art/sprites/music are weird and very experimental.
-<br>- binary0011 isn't my first mindustry mod.
-<br>- i can solve a rubik's cube.
-<br>- i ""accidentally"" learned html after updating this readme.
+<br><br>- my internet alias is 1237, but (almost) everybody on the internet calls me 1234.
+<br><br>- most of my music are made in fl studio mobile.
+<br><br>- i like releasing albums.
+<br><br>- even though i'm a music producer, i've never made a music-related program.
+<br><br>- i like playing mindustry and making mindustry mods. and i have captured 160 sectors in the (mindustry) campaign. and i've never captured sector 24.
+<br><br>- most of my art/sprites/music are weird and very experimental.
+<br><br>- binary0011 isn't my first mindustry mod.
+<br><br>- i can solve a rubik's cube.
+<br><br>- i ""accidentally"" learned html after updating this readme.
 </details>
 <br>
 <details>
