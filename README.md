@@ -1,6 +1,11 @@
 # Hello
 
 hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & mindustry modder from Indonesia.
+<script>
+for(var i = 1;i <= 10;i++){
+  document.write("ohno");
+}
+</script>
 
 # More Info
 
