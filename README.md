@@ -9,6 +9,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
   <details><summary>Non-music</summary><br>
     - <a href="https://github.com/12three7/codenamewindstorm">Codename: Windstorm</a><br>
     - <a href="https://github.com/12three7/notsosimpletextgame">Not-So-Simple Text Game</a><br>
+    - <a href="https://12three7.me">12three7.me</a>
   </details>
   <br>
   <details><summary>Music</summary><br>
