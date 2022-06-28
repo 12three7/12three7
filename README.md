@@ -37,14 +37,14 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <summary><b>Socials</b></summary>
 <br>
 1. youtube: https://youtube.com/1237yt
-<br>2. discord: https://discord.com/invite/mkEmnAPf5Z
+<br>2. discord: https://discord.gg/mkEmnAPf5Z
 <br>3. spotify: https://spoti.fi/3PMF0ei
 <br>4. bandcamp: https://1237.bandcamp.com/
 <br>5. instagram: https://instagram.com/12three7/
 <br>6. soundcloud: https://soundcloud.app.goo.gl/9Cn8p
 <br>7. weeklybeats: https://weeklybeats.com/12three7/
-<br>8. github: https://github.com/12three7/
-<br>9. website: https://12three7.me/
+<br>8. [github](https://github.com/12three7/)
+<br>9. [website](https://12three7.me/)
 <br>10. nightcafe: https://creator.nightcafe.studio/u/1237
 </details>
 <br>
