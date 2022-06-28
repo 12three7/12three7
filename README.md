@@ -35,17 +35,18 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <br>
 <details>
 <summary><b>Socials</b></summary>
-<br>
-1. youtube: https://youtube.com/1237yt
-<br>2. discord: https://discord.gg/mkEmnAPf5Z
-<br>3. spotify: https://spoti.fi/3PMF0ei
-<br>4. bandcamp: https://1237.bandcamp.com/
-<br>5. instagram: https://instagram.com/12three7/
-<br>6. soundcloud: https://soundcloud.app.goo.gl/9Cn8p
-<br>7. weeklybeats: https://weeklybeats.com/12three7/
-<br>8. [github](https://github.com/12three7/)
-<br>9. [website](https://12three7.me/)
-<br>10. nightcafe: https://creator.nightcafe.studio/u/1237
+<ol>
+<li><a href="https://12three7.me/">youtube</a></li>
+<li><a href="https://youtube.com/1237yt">youtube</a></li>
+<li><a href="https://discord.gg/j6FYRPhzFt">discord</a></li>
+<li><a href="https://spoti.fi/3PMF0ei">spotify</a></li>
+<li><a href="https://1237.bandcamp.com/">bandcamp</a></li>
+<li><a href="https://instagram.com/12three7/">instagram</a></li>
+<li><a href="https://soundcloud.app.goo.gl/9Cn8p">soundcloud</a></li>
+<li><a href="https://weeklybeats.com/12three7/">weeklybeats</a></li>
+<li><a href="https://github.com/12three7/">github</a></li>
+<li><a href="https://creator.nightcafe.studio/u/1237">nightcafe</a></li>
+</ol>
 </details>
 <br>
 <details><summary><b>FAQ</b></summary>
