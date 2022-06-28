@@ -37,7 +37,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <summary><b>Socials</b></summary>
 <br>
 1. https://youtube.com/1237yt
-<br>2. https://discord.gg/j6FYRPhzFt
+<br>2. https://12three7.me/discord/
 <br>3. https://spoti.fi/3PMF0ei
 <br>4. https://1237.bandcamp.com/
 <br>5. https://instagram.com/12three7/
