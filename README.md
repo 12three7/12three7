@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://12three7.me/styles/main.css">
 # Hello
 
 hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & mindustry modder from Indonesia.
