@@ -21,16 +21,18 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <details>
 <summary><b>Random Facts</b></summary>
 <br>
-- i'm currently learning java (the programming language, not the spoken language).
-<br><br>- my internet alias is 1237, but (almost) everybody on the internet calls me 1234.
-<br><br>- most of my music are made in fl studio mobile.
-<br><br>- i like releasing albums.
-<br><br>- even though i'm a music producer, i've never made a music-related program.
-<br><br>- i like playing mindustry and making mindustry mods. and i have captured 160 sectors in the (mindustry) campaign. and i've never captured sector 24.
-<br><br>- most of my art/sprites/music are weird and very experimental.
-<br><br>- binary0011 isn't my first mindustry mod.
-<br><br>- i can solve a rubik's cube.
-<br><br>- i ""accidentally"" learned html after updating this readme.
+<ul>
+  <li>i&#39;m currently learning java (the programming language, not the spoken language).</li>
+  <li>my internet alias is 1237, but (almost) everybody on the internet calls me 1234.</li>
+  <li>most of my music are made in fl studio mobile.</li>
+  <li>i like releasing albums.</li>
+  <li>even though i&#39;m a music producer, i&#39;ve never made a music-related program.</li>
+  <li>i like playing mindustry and making mindustry mods. and i have captured 160 sectors in the (mindustry) campaign. and i&#39;ve never captured sector   24.</li>
+  <li>most of my art/sprites/music are weird and very experimental.</li>
+  <li>binary0011 isn&#39;t my first mindustry mod.</li>
+  <li>i can solve a rubik&#39;s cube.</li>
+  <li>i &quot;&quot;accidentally&quot;&quot; learned html after updating this readme.</li>
+</ul>
 </details>
 <br>
 <details>
