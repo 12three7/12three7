@@ -58,44 +58,43 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 </details>
 <br>
 <details><summary><b>FAQ</b></summary>
-
-**q: what daw(/software) do you use to make music?**
+<p><strong>q: what daw(/software) do you use to make music?</strong>
 <br><br>
-_a: fl studio mobile, famitracker, lsdj._
+<em>a: fl studio mobile, famitracker, lsdj.</em>
 <br><br>
-**q: what genre(s) (/style) of music do you produce?**
+<strong>q: what genre(s) (/style) of music do you produce?</strong>
 <br><br>
-_a: ambient, chiptune/8-bit, house, acid house, future house, experimental, experimental electronic, improvisation, generative, dark ambient, lofi, lofi hip-hop, hip-hop/trap, future bass, dubstep, deathstep, riddim dubstep, electro, complextro, electro house, edm, trance, psytrance, tech trance, drum and bass, drumstep._
+<em>a: ambient, chiptune/8-bit, house, acid house, future house, experimental, experimental electronic, improvisation, generative, dark ambient, lofi, lofi hip-hop, hip-hop/trap, future bass, dubstep, deathstep, riddim dubstep, electro, complextro, electro house, edm, trance, psytrance, tech trance, drum and bass, drumstep.</em>
 <br><br>
-**q: why do you often release albums? / how do you make/produce a lot of music (in a ""short"" time)?**
+<strong>q: why do you often release albums? / how do you make/produce a lot of music (in a &quot;&quot;short&quot;&quot; time)?</strong>
 <br><br>
-_a: I don't know._
+<em>a: I don&#39;t know.</em>
 <br><br>
-**q: why is all your album artwork/cover grayscale?**
+<strong>q: why is all your album artwork/cover grayscale?</strong>
 <br><br>
-_a: I like grayscale art (/color)._
+<em>a: I like grayscale art (/color).</em>
 <br><br>
-**q: what happened to your youtube channel?**
+<strong>q: what happened to your youtube channel?</strong>
 <br><br>
-_a: I deleted my old youtube channel (which has 154 subscribers) on March 3, 2021. I created a new youtube channel on February 28, 2021. I deleted my old channel because it was "connected" with the topic channel for 1235._ <br> ***note: I changed the artist name from 1235 to "1237" on December 23, 2020.***
+<em>a: I deleted my old youtube channel (which has 154 subscribers) on March 3, 2021. I created a new youtube channel on February 28, 2021. I deleted my old channel because it was &quot;connected&quot; with the topic channel for 1235.</em> <br> <strong><em>note: I changed the artist name from 1235 to &quot;1237&quot; on December 23, 2020.</em></strong>
 <br><br>
-**q: what happened to your old youtube videos/songs?**
+<strong>q: what happened to your old youtube videos/songs?</strong>
 <br><br>
-_a: I deleted them._
+<em>a: I deleted them.</em>
 <br><br>
-**q: am i allowed to use your music (as a backsound/soundtrack) for my videos/livestreams/games/__?**
+<strong>q: am i allowed to use your music (as a backsound/soundtrack) for my videos/livestreams/games/__?</strong>
 <br><br>
-_a: as long as you credit me (in the description/credits), yes, you're allowed to use my music._
+<em>a: as long as you credit me (in the description/credits), yes, you&#39;re allowed to use my music.</em>
 <br><br>
-**q: why is your artist name 1237? / why you change your artist name from 1235 to 1237?**
+<strong>q: why is your artist name 1237? / why you change your artist name from 1235 to 1237?</strong>
 <br><br>
-_a: because there's an artist(/band?) called 1235 that makes music longer than me._
+<em>a: because there&#39;s an artist(/band?) called 1235 that makes music longer than me.</em>
 <br><br>
-**q: what does the name (number?) "1237" mean?**
+<strong>q: what does the name (number?) &quot;1237&quot; mean?</strong>
 <br><br>
-_a: that name doesn't have any meaning at all._
+<em>a: that name doesn&#39;t have any meaning at all.</em>
 </details>
-<br>
+<br></p>
 <details><summary><b>Github Stats</b></summary>
 
 ![1237's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12three7&show_icons=true&theme=radical)
