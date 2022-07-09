@@ -99,9 +99,9 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 </p>
 <br>
 <details><summary><b>Github Stats</b></summary>
-![1237's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12three7&show_icons=true&theme=radical)
+<p><img src="https://github-readme-stats.vercel.app/api?username=12three7&amp;show_icons=true&amp;theme=radical" alt="1237&#39;s GitHub Stats">
 <a href="https://github.com"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12three7&layout=compact&theme=radical&hide_border=false" /></a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12three7&hide_border=false&background=141321&ring=FC428C&fire=E8CA43&dates=A7FCF5&currStreakLabel=FFFFFF&sideNums=A7FCF5&currStreakNum=E8CA43&sideLabels=FFFFFF&stroke=FFFFFF)](#)
-[![trophy](https://github-profile-trophy.vercel.app/?username=12three7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=12three7&amp;hide_border=false&amp;background=141321&amp;ring=FC428C&amp;fire=E8CA43&amp;dates=A7FCF5&amp;currStreakLabel=FFFFFF&amp;sideNums=A7FCF5&amp;currStreakNum=E8CA43&amp;sideLabels=FFFFFF&amp;stroke=FFFFFF" alt="GitHub Streak"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12three7&amp;theme=radical" alt="trophy"></a></p>
 </details>
 <br>
