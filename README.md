@@ -97,7 +97,7 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
 <em>a: that name doesn&#39;t have any meaning at all.</em>
 </details>
 </p>
-
+<br>
 <details><summary><b>Github Stats</b></summary>
 ![1237's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12three7&show_icons=true&theme=radical)
 <a href="https://github.com"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12three7&layout=compact&theme=radical&hide_border=false" /></a>
