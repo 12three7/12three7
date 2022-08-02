@@ -11,17 +11,11 @@ hi, i'm 1237 (pronounced "twelve three seven"), a multi-genre music producer & m
   <ul>
     <li><details><summary>  Non-music</summary><br>
       <ul>
-        <li><a href="https://github.com/driftheque/thenewwave>The New Wave</a></li>
+        <li><a href="https://github.com/driftheque/thenewwave">The New Wave</a></li>
         <li><a href="https://12three7.me">12three7.me</a></li>
       </ul>
     </details></li>
     <br>
-    <li><details><summary>Music</summary><br>
-      <ul>
-        <li><a href="https://youtube.com/playlist?list=PL-9JdATROorBrVJ_UTSRUnw28WZoN4_Ox">Drafts / Forgotten Tracks Part 2</a></li>
-        <li><a href="https://youtube.com/playlist?list=PL-9JdATROorAYuXT2DUatMVA_amRxhGw5">Project Oblivion OST</a></li>
-      </ul>
-    </details></li>
   </ul>
 </details>
 <br>
